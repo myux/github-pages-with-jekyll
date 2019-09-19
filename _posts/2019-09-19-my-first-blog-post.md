@@ -1,4 +1,5 @@
 ---
-title: "YOUR-TITLE"
+title: "locked"
 date: YYYY-MM-DD
 ---
+
